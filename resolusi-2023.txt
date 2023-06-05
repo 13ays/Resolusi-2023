@@ -9,3 +9,4 @@ RESOLUSI 2023
 - Perbanyak minum air putih
 - Menjaga pola makan sehat dan menghindari makanan cepat saji
 - Menghilangkan kebiasaan pmo
+- Menyelesaikan project presensi gps
