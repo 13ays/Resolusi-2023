@@ -1,5 +1,8 @@
 RENCANA BELAJAR 2023
+====================
+
 - Bahasa Pemrograman PHP, OOP PHP
 - Git & Github
 - API
 - Framework Laravel
+- Figma
