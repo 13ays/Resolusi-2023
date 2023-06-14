@@ -2,6 +2,7 @@ RENCANA BELAJAR 2023
 ====================
 
 - Bahasa Pemrograman PHP, OOP PHP
+- Belajar Javascript Lanjutan
 - Git & Github
 - API
 - Framework Laravel
